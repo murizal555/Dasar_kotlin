@@ -1,3 +1,3 @@
 fun main(){
-    print("pagi")
+    print("pagiiiii")
 }
